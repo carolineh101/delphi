@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  delphi
 //
-//  Created by schang16 on 8/27/16.
-//  Copyright © 2016 schang16. All rights reserved.
+//  Created by Kavitha Dhanukodi on 8/27/16.
+//  Copyright © 2016 delphi. All rights reserved.
 //
 
 import UIKit
